@@ -6,7 +6,12 @@ This tool allow you to convert **USM files** to **MP4 files**.
 # Installation
 
 You need to add [ffmpeg](https://www.gyan.dev/ffmpeg/builds/) and [crid_mod](https://cdn.discordapp.com/attachments/448202199852646431/708452992331939880/CRID.usmDemux_Tool_v1.02-mod.7z) to Windows path.
+
 **Python 3.6.0 or higher is required**
+```
+pip install pyfiglet
+pip install colorama
+```
 
 
 
